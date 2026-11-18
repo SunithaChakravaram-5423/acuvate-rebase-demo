@@ -1,3 +1,4 @@
+
 s = input("Enter a string: ")
 res = ""
 for ch in s:
